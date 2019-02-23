@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "9768667310",
+    "firebase_url": "https://hackutd-7852a.firebaseio.com",
+    "project_id": "hackutd-7852a",
+    "storage_bucket": "hackutd-7852a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9768667310:android:ea47bbc8737d1c7b",
+        "android_client_info": {
+          "package_name": "com.ibrahim.streetwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9768667310-u4sctjqv0ao2kjakph8r4ap4j8rdnjfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibrahim.streetwise",
+            "certificate_hash": "105e8eb8ad41bbd2e3b54f49a3fce4517a757815"
+          }
+        },
+        {
+          "client_id": "9768667310-sk7a8dkh5tcvjthu1l6jpmsfhkp8cnis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVs8Nyy3SDFqmU9ToyBNC8OiKr7zE31o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9768667310-sk7a8dkh5tcvjthu1l6jpmsfhkp8cnis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
